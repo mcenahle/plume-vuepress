@@ -55,6 +55,10 @@ export default defineUserConfig({
                                 text: 'Adobe Premiere Pro 文档',
                                 link: '/pr/',
                             },
+                            {
+                                text: '系统文档',
+                                link: '/system/',
+                            },
                         ],
                     },
                 ],

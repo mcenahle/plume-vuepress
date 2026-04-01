@@ -57,6 +57,15 @@ export default defineThemeConfig({
                 ]
             }
         ],
+        '/system/': [
+            {
+                text: '电脑系统相关',
+                items: [
+                    {text: '电脑系统相关文档', link: '/system/'},
+                    {text: 'Windows 路径', link: '/system/windows-path/'},
+                ]
+            }
+        ],
     },
 
     /**
