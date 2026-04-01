@@ -15,7 +15,7 @@ config:
         -
           theme: brand
           text: 进入欢迎页面
-          link: /welcome.html
+          link: /welcome/
         -
           theme: alt
           text: Github →

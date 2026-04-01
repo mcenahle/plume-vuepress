@@ -1,7 +1,7 @@
 ---
 title: 欢迎来到 d.mcenahle.cn！
 createTime: 2026/04/01 09:14:16
-permalink: /welcome.html
+permalink: /welcome/
 foo: foo
 ---
 
