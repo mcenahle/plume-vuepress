@@ -43,7 +43,7 @@ export default defineThemeConfig({
   /* 站点页脚 */
   footer: {
     message: '备案信息：<a target="_blank" href="https://beian.miit.gov.cn/">沪ICP备2025116360号-2</a> | <a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31015102000201">沪公网安备31015102000201号</a>',
-    copyright: '© 2025-2026 docs.mcenahle.cn。保留所有权利。',
+    copyright: '© 2025-2026 d.mcenahle.cn。保留所有权利。',
   },
 
   sidebar: {

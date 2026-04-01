@@ -121,6 +121,13 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: 'JetBrainsMono-Regular';
+    src: url('https://www.mcenahle.org.cn/fonts/JetBrainsMono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     font-family: -apple-system,
         BlinkMacSystemFont,
@@ -132,4 +139,12 @@ body {
         Helvetica,
         Arial,
         sans-serif;
+}
+
+code {
+    /* font-size: 90%; */
+    color: #000000;
+    background-color: transparent;
+    border-radius: 4px;
+    font-family: 'JetBrainsMono-Regular';
 }

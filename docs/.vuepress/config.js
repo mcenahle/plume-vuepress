@@ -16,7 +16,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'docs.mcenahle.cn',
+  title: 'd.mcenahle.cn',
   description: '',
 
   head: [
@@ -29,7 +29,7 @@ export default defineUserConfig({
 
   theme: plumeTheme({
     /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-    hostname: 'https://docs.mcenahle.cn',
+    hostname: 'https://d.mcenahle.cn',
 
     /* 文档仓库配置，用于 editLink */
     docsRepo: 'mcenahle/plume-vuepress',
@@ -156,7 +156,15 @@ export default defineUserConfig({
      * 水印
      * @see https://theme-plume.vuejs.press/guide/features/watermark/
      */
-    // watermark: true,
+    watermark: false,
+
+    fullPage: true,
+
+    /** @see https://zhensherlock.github.io/watermark-js-plus/zh/config/ */
+    watermarkOptions: {
+      // content: 'd.mcenahle.cn',
+      // ...
+    },
 
     /**
      * 评论 comments
