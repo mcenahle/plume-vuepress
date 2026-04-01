@@ -1,12 +1,13 @@
 ---
-title: 欢迎来到 docs.mcenahle.cn！
+title: 欢迎来到 d.mcenahle.cn！
 createTime: 2026/04/01 09:14:16
 permalink: /welcome.html
+foo: foo
 ---
 
-**欢迎来到 docs.mcenahle.cn！**
+**欢迎来到 d.mcenahle.cn！**
 
-这里是一个基于 `VuePress` + `Plume` 主题构建的文档站点，主要用于记录学习笔记、技术实践与一些日常整理的内容。
+这里是一个基于 `VuePress` + `Plume` 主题构建的==文档站点==，主要用于记录学习笔记、技术实践与一些日常整理的内容。
 
 ## 📚 关于本站
 
