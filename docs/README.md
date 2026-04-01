@@ -9,7 +9,7 @@ config:
     effectConfig: 220
     hero:
       name: mcenahle 文档网站
-      tagline: docs.mcenahle.cn
+      tagline: d.mcenahle.cn
       text: 一个简约的 vuepress 文档网站
       actions:
         -
