@@ -49,10 +49,11 @@ export default defineThemeConfig({
   sidebar: {
     '/pr/': [
       {
-        text: 'PR 相关',
+        text: 'Premiere Pro 相关',
         items: [
           { text: 'Adobe Premiere Pro 文档', link: '/pr/' },
           { text: 'PR 文件管理', link: '/pr/files-manage.html' },
+          { text: 'PR 项目管理', link: '/pr/project-manage.html' },
         ]
       }
     ],
