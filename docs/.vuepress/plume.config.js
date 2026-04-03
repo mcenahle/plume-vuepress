@@ -63,6 +63,7 @@ export default defineThemeConfig({
                 items: [
                     {text: '电脑系统相关文档', link: '/system/'},
                     {text: 'Windows 路径', link: '/system/windows-path/'},
+                    {text: '停止 Windows 更新', link: '/system/stop-windows-update/'},
                 ]
             }
         ],
