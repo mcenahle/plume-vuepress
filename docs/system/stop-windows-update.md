@@ -6,7 +6,11 @@ permalink: /system/stop-windows-update/
 
 Windows 的更新以其强制性而臭名昭著。而本页面旨在解决此问题。
 
-## 使用 Windows Update Blocker（WUB），暂停更新服务
+## 使用 Windows Update Blocker，停止更新服务
+
+::: info
+下文中统一称 Windows Update Blocker 为其简写 - WUB。
+:::
 
 1. [下载 WUB 1.8 版本](https://mcenahle.cn/resources/stop-windows-update/wub-1.8.zip) 并解压缩，双击打开 `Wub_x64.exe` 可执行文件。
 
