@@ -20,10 +20,7 @@ foo: foo
 ## 🔗 相关链接
 
 * 🌐 Plume 主题文档：
-  <https://plume.pengzhanbo.cn/>
-
-> [!CAUTION]
-> 由于未知原因，原先的 Plume 官方站点（`.vuejs.press` 域名）目前无法访问，请以上方链接为准。
+  <https://theme-plume.vuejs.press/>
 
 ## 🧭 如何开始
 
