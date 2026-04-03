@@ -54,7 +54,10 @@ Windows 的更新以其强制性而臭名昭著。而本页面旨在解决此问
 
 2. 点击 `是` 以继续。
 
-3. 同时，也要转到设置：
+3. 同时，也要转到::material-symbols:settings-outline-rounded::设置 [+设置]：
+
+[+设置]:
+   点击::mage:microsoft-windows::`Windows 徽标` 键 + `I` 键以打开。
 
 ![设置](/images/LAPTOP-QBI12I8_mcenahle_20260403_10-33-52.jpg)
 
@@ -66,3 +69,9 @@ Windows 的更新以其强制性而臭名昭著。而本页面旨在解决此问
 
 ![暂停428周](/images/LAPTOP-QBI12I8_mcenahle_20260403_10-35-53.jpg)
 
+6. 若已经提示必须更新才能关机/重启，可::material-symbols:logout-sharp::注销 [+注销] 再次登录。点击 Windows 徽标::mage:microsoft-windows::，并依次点击用户名 - `注销` 以注销。
+
+![注销路径](/images/LAPTOP-QBI12I8_mcenahle_20260403_11-17-26.jpg)
+
+[+注销]:
+   注销是指关闭当前用户的所有程序，并退出登录的行为。==注销前，请务必保存已经完成的工作！=={.important}
