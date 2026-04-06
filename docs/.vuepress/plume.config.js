@@ -52,6 +52,7 @@ export default defineThemeConfig({
                 text: 'Premiere Pro 相关',
                 items: [
                     {text: 'Adobe Premiere Pro 文档', link: '/pr/'},
+                    {text: '视频格式和编码', link: '/pr/video-type-and-code/'},
                     {text: 'PR 文件管理', link: '/pr/files-manage/'},
                     {text: 'PR 项目管理', link: '/pr/project-manage/'},
                 ]

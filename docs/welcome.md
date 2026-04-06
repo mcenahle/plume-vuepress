@@ -19,8 +19,7 @@ foo: foo
 
 ## 🔗 相关链接
 
-* 🌐 Plume 主题文档：
-  <https://theme-plume.vuejs.press/>
+* 🌐 Plume 主题文档：[https://theme-plume.vuejs.press](https://theme-plume.vuejs.press)。
 
 ## 🧭 如何开始
 
