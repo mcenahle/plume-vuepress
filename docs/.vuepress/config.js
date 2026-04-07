@@ -24,7 +24,14 @@ export default defineUserConfig({
         ['link', {rel: 'icon', type: 'image/png', href: 'https://d.mcenahle.cn/images/logo.png'}],
     ],
 
-    bundler: viteBundler(),
+    bundler: viteBundler({
+        viteOptions: {
+            server: {
+                allowedHosts: ['d.mcenahle.test']
+            }
+        }
+    }),
+
     shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
 
     theme: plumeTheme({
