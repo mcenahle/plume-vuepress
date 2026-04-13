@@ -40,9 +40,9 @@ H.264 = 压缩方式（怎么“折叠衣服”）；MP4 / MOV / QuickTime = 容
 ## 五、MOV：苹果专用箱子
 
 > [!CAUTION]
-> 由于 `.mov` 是::ic:baseline-apple::Apple 的专有格式，所以在::flowbite:windows-solid::Windows 电脑上，除非使用 [potplayer](https://potplayer.tv/?lang=zh_CN) 等全能播放器软件，否则无法打开 `.mov` 视频。
+> `.mov` 是由::ic:baseline-apple::Apple 推出的多媒体容器格式。在::flowbite:windows-solid::Windows 系统上，其兼容性取决于视频编码格式。
 > 
-> 可使用 [potplayer](https://potplayer.tv/?lang=zh_CN)、[格式工厂](https://www.pcgeshi.com/)、[格式转换](https://www.freeconvert.com/mov-to-mp4) 等方式解决。
+> 部分 `.mov` 文件可以直接播放，但若无法打开，可使用 [VLC](https://www.videolan.org/vlc/)、[PotPlayer](https://potplayer.tv/?lang=zh_CN) 等播放器，或通过格式转换工具进行处理。
 
 MOV 是 QuickTime 体系里的“箱子”，类似“苹果定制纸箱”。
 
