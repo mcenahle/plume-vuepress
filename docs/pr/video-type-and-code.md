@@ -39,6 +39,9 @@ H.264 = 压缩方式（怎么“折叠衣服”）；MP4 / MOV / QuickTime = 容
 
 ## 五、MOV：苹果专用箱子
 
+> [!CAUTION]
+> 除非使用 [potplayer](https://potplayer.tv/?lang=zh_CN) 等全能播放器软件，否则在::flowbite:windows-solid::Windows 电脑上无法打开 `.mov` 视频。
+
 MOV 是 QuickTime 体系里的“箱子”，类似“苹果定制纸箱”。
 
 特点：1、更适合专业视频（剪辑、后期）；2、文件通常更大；3、兼容性不如 MP4。

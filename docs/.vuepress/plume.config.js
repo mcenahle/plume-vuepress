@@ -19,6 +19,10 @@ import {defineCollection} from 'vuepress-theme-plume'
  * @see https://theme-plume.vuejs.press/config/theme/
  */
 export default defineThemeConfig({
+    editLinkText: "在 GitHub 上编辑此页",
+    appearanceText: "浅色/深色切换",
+    sidebarMenuLabel: "菜单",
+
     logo: '/images/logo.png',
 
     appearance: true,  // 配置 深色模式
