@@ -63,6 +63,10 @@ export default defineUserConfig({
                                 link: '/pr/',
                             },
                             {
+                                text: 'Adobe After Effects 文档',
+                                link: '/ae/',
+                            },
+                            {
                                 text: '系统文档',
                                 link: '/system/',
                             },

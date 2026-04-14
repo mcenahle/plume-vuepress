@@ -62,6 +62,15 @@ export default defineThemeConfig({
                 ]
             }
         ],
+        '/ae/': [
+            {
+                text: 'After Effects 相关',
+                items: [
+                    {text: 'After Effects 文档', link: '/ae/'},
+                    {text: 'AE 属性快捷键', link: '/ae/properties-shoutcut-key/'},
+                ]
+            }
+        ],
         '/system/': [
             {
                 text: '电脑系统相关',
