@@ -6,4 +6,4 @@ permalink: /ae/
 
 Adobe After Effects 是一款专门用于视频特效的软件。
 
-相关支持文档：[Adobe 帮助与支持](https://helpx.adobe.com/cn/support/after-effects.html)。
+[前往 **Adobe 帮助与支持** 的 AE 页面深入了解](https://helpx.adobe.com/cn/support/after-effects.html){.read-more}
