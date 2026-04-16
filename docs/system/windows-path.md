@@ -9,23 +9,23 @@ permalink: /system/windows-path/
 
 比如：
 
-1. 上海图书馆（东馆）：上海市浦东新区合欢路300号；
+1. 上海图书馆（东馆）：::mdi:location::上海市浦东新区合欢路300号；
 
-2. 浦东国际机场：上海市浦东新区迎宾大道6000号；
+2. 浦东国际机场：::mdi:location::上海市浦东新区迎宾大道6000号；
 
-3. 上海市卫生健康委员会：上海市浦东新区世博村路300号4号楼；
+3. 上海市卫生健康委员会：::mdi:location::上海市浦东新区世博村路300号4号楼；
 
-4. 上海市人民政府：上海市黄浦区人民大道200号。
+4. 上海市人民政府：::mdi:location::上海市黄浦区人民大道200号。
 
 同样的，在Windows系统中，为了唯一标识一个文件/文件夹的位置，我们引入“Windows路径”。
 
 例如我们说，一个文件的路径是：`D:\path\to\file.txt`，即表示：
 
-- D: → D 盘
+- `D:` → D 盘
 
-- path\to → 文件夹层级
+- `path\to` → 文件夹层级
 
-- file.txt → 文件
+- `file.txt` → 文件
 
 可以想象，我们打开一个D盘，再依次打开path文件夹和to文件夹，就找到了file.txt这个文本文件。所以该文本文件的路径就是：`D:\path\to\file.txt`。
 
@@ -58,5 +58,5 @@ permalink: /system/windows-path/
 - 卸载软件请用“卸载程序”，不要直接删除桌面的快捷方式和安装的文件夹
 
 ::: info 软件推荐
-关于卸载工具，可以使用Geek Uninstaller。该工具能在软件卸载后，自动检测残留项，防止软件“死灰复燃”。[可在我的网站下载](https://mcenahle.cn/resources/geek.exe)
+关于卸载工具，可以使用Geek Uninstaller。该工具能在软件卸载后，自动检测残留项，防止软件“死灰复燃”。[::line-md:download::可在我的网站下载](https://mcenahle.cn/resources/geek.exe)
 :::
