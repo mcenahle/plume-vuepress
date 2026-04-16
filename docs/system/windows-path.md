@@ -34,11 +34,11 @@ permalink: /system/windows-path/
 
 安装软件时，注意这一类按钮：
 
-- Browse...
+- `Browse...`
 
-- 更改
+- `更改`
 
-- Change
+- `Change`
 
 然后把路径改成例如这种：`D:\Software\软件名`。
 
