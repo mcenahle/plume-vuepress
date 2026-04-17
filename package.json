@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "description": "",
-  "author": "mcenahle <i@mn.edu.kg>",
+  "author": "mcenahle <admin@mcenahle.sh.cn>",
   "license": "MIT",
   "scripts": {
     "docs:build": "vuepress build docs --clean-cache --clean-temp",
