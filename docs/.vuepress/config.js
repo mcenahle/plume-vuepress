@@ -75,7 +75,8 @@ export default defineUserConfig({
                 ],
             },
             {text: '分享本网站', link: '/share/'},
-            {text: '个人成长记录', link: 'https://mcenahle.cn'}
+            {text: '个人成长记录', link: 'https://mcenahle.cn'},
+            {text: '我的 Github 账号', link: 'https://github.com/mcenahle/'}
         ],
 
         /**

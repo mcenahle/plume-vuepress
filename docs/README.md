@@ -19,5 +19,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/mcenahle/
+          link: https://github.com/mcenahle/plume-vuepress/
 ---
