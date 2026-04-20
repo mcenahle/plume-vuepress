@@ -7,30 +7,6 @@ foo: foo
 
 **欢迎来到 d.mcenahle.cn！**
 
-这里是一个基于 `VuePress` + `Plume` 主题构建的==文档站点==，主要用于记录学习笔记、技术实践与一些日常整理的内容。
+这里是一个基于 `VuePress` + `Plume` 主题构建的==文档站点==。
 
-## 📚 关于本站
-
-* 🧩 使用技术：`VuePress` 静态站点生成器
-* 🎨 使用主题：`Plume`
-* 📝 内容方向：技术笔记 / 开发记录 / 知识整理
-
-你可以把这里当作一个持续更新的“个人知识库”。
-
-## 🔗 相关链接
-
-* 🌐 Plume 主题文档：[https://theme-plume.vuejs.press](https://theme-plume.vuejs.press)。
-
-## 🧭 如何开始
-
-你可以通过以下方式浏览本站内容：
-
-* 📂 使用上面的 **顶部导航**
-* 🔍 按目录逐步查阅文档
-* 📄 点击具体页面深入阅读
-
-## ✨ 说明
-
-本站仍在持续建设中，部分内容可能尚未完善或仍在调整。
-
-> 🚀 现在，开始探索吧。
+Plume 主题文档：[https://theme-plume.vuejs.press](https://theme-plume.vuejs.press)。
