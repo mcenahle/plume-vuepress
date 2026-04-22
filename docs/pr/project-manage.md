@@ -52,12 +52,12 @@ title="第四步 - 转到资源管理器，即可查看到新释放的文件夹"
 - F:
   - 素材
       - 皇后镇-04
-        - DJI_20260104214010_0026_D.mov  素材文件（视频，mov）
+        - DJI_20260104214010_0026_D.mov  # 素材文件（视频，mov）
         - 皇后镇-04.prproj  视频工程文件
-        - AdobePremiereProAudioPreviews 音频预览文件夹
+        - Adobe Premiere Pro Audio Previews # 音频预览文件夹
           - 皇后镇-04.PRV  音频预览文件
-        - AdobePremiereProVideoPreviews 视频预览文件夹
-          - 皇后镇-04.PRV  视频预览文件
+        - Adobe Premiere Pro Video Previews # 视频预览文件夹
+          - 皇后镇-04.PRV  # 视频预览文件
 :::
 
 ::: warning
