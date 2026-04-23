@@ -81,6 +81,14 @@ export default defineThemeConfig({
                 ]
             }
         ],
+        '/articles/': [
+            {
+                text: '【转载】文章',
+                items: [
+                    {text: '鹳羽', link: '/articles/guanyu/'},
+                ]
+            }
+        ],
     },
 
     /**
