@@ -48,8 +48,8 @@ export default defineThemeConfig({
     footer: {
         message: '<p align="center">\n' +
             '  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/mcenahle/plume-vuepress/main">\n' +
-            '</p> 备案信息：<a target="_blank" href="https://beian.miit.gov.cn/">沪ICP备2025116360号-2</a> | <a target="_blank" href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31015102000201">沪公网安备31015102000201号</a>',
-        copyright: '© 2025-2026 d.mcenahle.cn。保留所有权利。',
+            '</p> mcenahle 文档网站',
+        copyright: '© 2025-2026 d.mcenahle.com。保留所有权利。',
     },
 
     sidebar: {

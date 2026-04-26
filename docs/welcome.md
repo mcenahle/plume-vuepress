@@ -1,11 +1,11 @@
 ---
-title: 欢迎来到 d.mcenahle.cn！
+title: 欢迎来到 d.mcenahle.com！
 createTime: 2026/04/01 09:14:16
 permalink: /welcome/
 foo: foo
 ---
 
-**欢迎来到 d.mcenahle.cn！**
+**欢迎来到 d.mcenahle.com！**
 
 这里是一个基于 `VuePress` + `Plume` 主题构建的==文档站点==。
 

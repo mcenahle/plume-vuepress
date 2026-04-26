@@ -4,7 +4,7 @@ createTime: 2026/04/03 10:30:30
 permalink: /system/stop-windows-update/
 ---
 
-Windows 的更新以其强制性而臭名昭著。而本页面旨在解决此问题。
+Windows 的更新以其强制性而闻名中外。而本页面旨在解决此问题。
 
 ## 使用 Windows Update Blocker，停止更新服务
 

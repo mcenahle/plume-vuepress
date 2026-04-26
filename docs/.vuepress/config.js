@@ -16,12 +16,12 @@ import {plumeTheme} from 'vuepress-theme-plume'
 export default defineUserConfig({
     base: '/',
     lang: 'zh-CN',
-    title: 'd.mcenahle.cn',
+    title: 'd.mcenahle.com',
     description: '',
 
     head: [
         // 配置站点图标
-        ['link', {rel: 'icon', type: 'image/png', href: 'https://d.mcenahle.cn/images/logo.png'}],
+        ['link', {rel: 'icon', type: 'image/png', href: 'https://d.mcenahle.com/images/logo.png'}],
     ],
 
     bundler: viteBundler({
@@ -36,7 +36,7 @@ export default defineUserConfig({
 
     theme: plumeTheme({
         /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
-        hostname: 'https://d.mcenahle.cn',
+        hostname: 'https://d.mcenahle.com',
 
         /* 文档仓库配置，用于 editLink */
         docsRepo: 'mcenahle/plume-vuepress',
@@ -193,7 +193,7 @@ export default defineUserConfig({
 
         /** @see https://zhensherlock.github.io/watermark-js-plus/zh/config/ */
         watermarkOptions: {
-            // content: 'd.mcenahle.cn',
+            // content: 'd.mcenahle.com',
             // ...
         },
 
